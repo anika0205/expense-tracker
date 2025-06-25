@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @SpringBootApplication
 public class ExpenseTrackerApplication implements WebMvcConfigurer {
 
-	(public static void mainString[] args) {
+	public static void main(String[] args) {
 		SpringApplication.run(ExpenseTrackerApplication.class, args);
 	}
 
